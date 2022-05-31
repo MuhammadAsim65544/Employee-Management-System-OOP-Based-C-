@@ -1,1 +1,1 @@
-# Employee-Management-System-OOP-Based-C-
+It is an employee management system in C++.
